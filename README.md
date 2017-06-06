@@ -10,6 +10,7 @@ This repo contains Arduino library for BME280 sensor. It also includes two examp
 
 ## Docs
 - [BME280 breakout by e-r.io] [breakout]
+- [BME280 breakout hardware page] [hardware]
 
 ## How to use?
 Install as any Arduino library. Go to File -> Examples -> BME280_Arduino_Library -> *choose your example* and use! 
@@ -22,3 +23,4 @@ If you find an Issue, please open one at GitHub. If you can improve our product,
 e-r.io Team.
 
 [breakout]: https://e-radionica.com/en/bme280-senzor-tlaka-temperature-i-vlage-e-r-made.html
+[hardware]: https://github.com/e-radionicacom/BME280-breakout-board-Eagle-files
