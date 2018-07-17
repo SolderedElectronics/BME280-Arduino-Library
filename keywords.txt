@@ -6,16 +6,16 @@
 # Datatypes (KEYWORD1)
 #######################################
 
-BME280         KEYWORD1
+BME280	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
 
-settings       KEYWORD2
-begin          KEYWORD2
-reset          KEYWORD2
-readPressure   KEYWORD2
-readAltitude   KEYWORD2
-readHumidity   KEYWORD2
-readTemp       KEYWORD2
+settings	KEYWORD2
+begin	KEYWORD2
+reset	KEYWORD2
+readPressure	KEYWORD2
+readAltitude	KEYWORD2
+readHumidity	KEYWORD2
+readTemp	KEYWORD2
